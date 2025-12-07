@@ -1,4 +1,4 @@
-import "./visit_us.css";
+import "./Visit_Us.css";
 import React from "react";
 import { MapPin, Phone, Clock } from "lucide-react";
 import { FaFacebook } from "react-icons/fa";
