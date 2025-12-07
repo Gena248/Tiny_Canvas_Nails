@@ -1,0 +1,40 @@
+.work {
+  margin: 50px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  padding: 0 20px;
+}
+
+.work_title {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: -20px;
+}
+
+.work_caption {
+  font-size: 20px;
+  text-align: center;
+  max-width: 600px;
+}
+
+.work_list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 100%;
+  max-width: 400px;
+}
+
+.work_card {
+  /**/
+}
+
+.work_img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 6px;
+  margin-bottom: 10px;
+}
