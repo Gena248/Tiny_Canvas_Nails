@@ -5,4 +5,7 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
   plugins: [react()],
   base: "/Tiny_Canvas_Nails/", // replace with your repository name
+  build: {
+    outDir: "docs",
+  },
 });
